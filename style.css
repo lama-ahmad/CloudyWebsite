@@ -1,0 +1,26 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-size: 1.8em;
+	font-family: 'Calibri', sans-serif;
+}
+
+h1{
+	font-size: 5vw;
+	text-align: center;
+	top: 50px;
+	color: rgba(110,175,220,0.4);
+}
+
+div {
+	position: relative;
+}
+
+
+
+.video{
+    position: relative;
+	display: block;
+	margin: 0 auto;
+	width: 65%;
+}
